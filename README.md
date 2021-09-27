@@ -1,10 +1,10 @@
 # bookshelf-back-end
 
-##About Project
-###Deskripsi
+## About Project
+### Deskripsi
 Project ini merupakan pembuatan Bookshelf API. Project ini adalah syarat menyelesaikan kelas Back End Pemula Dicoding
 
-###Tech Stack
+### Tech Stack
 Menggunakan @hapi/hapi, eslint, dan nanoid.
 
 
